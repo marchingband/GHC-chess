@@ -7,3 +7,5 @@
  * enter `abcd` where :
    - (a,b) = x,y coordinates of piece to move and 
    - (c,d) = x,y coordinates to place piece
+
+![](https://user-images.githubusercontent.com/34205564/42070291-87217ac2-7b0a-11e8-9b07-4670ed32fccb.png)
